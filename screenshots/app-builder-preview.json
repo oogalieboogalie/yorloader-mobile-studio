@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Beacon",
+      "hasCanvas": false,
+      "bodyTextLen": 4216,
+      "bodyTextHash": "0fe5ee4b2107d6425b867fbd9f92c8711014970637dcc2a5753add61d6f6e4e8",
+      "bodyTextPrefix": "Beacon Overlay studio Connecting dock · Slide up from the bottom",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Beacon",
+      "hasCanvas": false,
+      "bodyTextLen": 792,
+      "bodyTextHash": "9910694b4ba1f7ae3cf9a6c85aa95ff287a9375d3d486baf1a77c084b51f83ce",
+      "bodyTextPrefix": "Beacon Overlay studio Play 9:41 Templates Edit Code THIS CUE NAM",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
